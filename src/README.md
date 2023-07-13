@@ -14,7 +14,7 @@ En esta operacion va ejecutar la suma de dos numeros enteros.
 Tendras que teclear el primer numero, oprimir enter y teclear un segundo numero de entrada, al dar enter automaticamente te realizara la suma de esos numeros
 mostrandote en pantalla el resultado.
 
-![img_1.png](img_1.png)
+![img_1.png](https://github.com/AdrianaGzzB/AsignacionesCodellegeUp/blob/main/src/img_1.png)
 
 
 ### Operation Subtraction
