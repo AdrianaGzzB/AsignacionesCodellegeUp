@@ -7,14 +7,14 @@ Este codigo realiza las operaciones basicas de una calculadora.
 * Muestra en pantalla 5 opciones.
 * Selecciona una opcion y da como entrada el numero que le corresponde.
 
-![img.png](img.png)
+![img.png](src/img.png)
 
 ### Operation Add
 En esta operacion va ejecutar la suma de dos numeros enteros.
 Tendras que teclear el primer numero, oprimir enter y teclear un segundo numero de entrada, al dar enter automaticamente te realizara la suma de esos numeros
 mostrandote en pantalla el resultado.
 
-![img_1.png](img_1.png)
+![img_1.png](src/img_1.png)
 
 
 ### Operation Subtraction
@@ -23,31 +23,31 @@ Esta operacion realiza la resta de dos numeros enteros.
 Tendras que dar dos numeros enteros de entrada y oprimir enter, automaticamente te realizara la resta y
 mostrara el resultado en pantalla.
 
-![img_2.png](img_2.png)
+![img_2.png](src/img_2.png)
 
 ### Operation Multiply
 Esta opcion realiza la multiplicacion de dos numeros enteros los cuales tendras que teclear, oprimirr enter y te mostrara el 
 resultado automaticamente.
 
-![img_3.png](img_3.png)
+![img_3.png](src/img_3.png)
 
 ### Operation Division
 Esta operacion realiza la division de dos numeros enteros.
 Tendras que darle dos numeros de entrada y al dar enter te muestra el resultado de esa division en
 numeros enteros.
 
-![img_4.png](img_4.png)
+![img_4.png](src/img_4.png)
 
 ### Exit
 La operation exit da por terminada la ejecucion del programa.
 
-![img_5.png](img_5.png)
+![img_5.png](src/img_5.png)
 
 ### Nota:
 Si por error tecleamos un numero que no esta dentro de las opciones, nos va pedir que por favor teclemos una
 operacion correcta.
 
-![img_6.png](img_6.png)
+![img_6.png](src/img_6.png)
 
 ## Refactorización
 
@@ -103,18 +103,18 @@ while (true) {
 
 * Hacer que acepte numeros decimales y no solo numeros enteros.
 
-  ![img_7.png](img_7.png)
+  ![img_7.png](src/img_7.png)
 
 * Validar que no acepte letras solo numeros
 
-  ![img_8.png](img_8.png)
+  ![img_8.png](src/img_8.png)
 
 * No acepta numeros muy largos
 
-  ![img_9.png](img_9.png)
+  ![img_9.png](src/img_9.png)
 
 * Utilizar camelCase para la declaración de variables cuando la variable esta formada de dos palabras o más.
 
-  ![img_10.png](img_10.png)
+  ![img_10.png](src/img_10.png)
 
    
